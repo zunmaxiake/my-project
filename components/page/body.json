@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_bodies",
+  "info": {
+    "name": "text-Block",
+    "icon": "box",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
